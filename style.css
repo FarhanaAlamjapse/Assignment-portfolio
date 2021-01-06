@@ -86,7 +86,8 @@ padding:5px;
   background-position: left;
   background-repeat: no-repeat;
   height:150px;
-  margin:1000px 200px;
+  margin:700px 200px;
+  padding-top: 20px;
   border-radius:10px;
 }
 .banner h2{
